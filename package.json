@@ -1,0 +1,21 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "a test app",
+  "homepage": "https://github.com/devtes2r/testapp#readme",
+  "bugs": {
+    "url": "https://github.com/devtes2r/testapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devtes2r/testapp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main/start.js"
+  }
+}
